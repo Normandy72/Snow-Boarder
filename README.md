@@ -10,6 +10,10 @@
 1. Add Surface Effector 2D to main layout
 2. In Edge Collider mark 'Used by Effector'
 
+## Particle System Component
+* Particle System is a Component added to a Game Object.
+* We use Modules for controlling behaviour.
+
 ***
 # ~ C# ~
 ## Organising Code
