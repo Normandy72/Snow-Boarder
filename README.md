@@ -14,6 +14,11 @@
 * Particle System is a Component added to a Game Object.
 * We use Modules for controlling behaviour.
 
+## Audio Terminology
+* __Audio Listener__ - like a microphone, receives sounds and plays through your computer's speakers.
+* __Audio Source__ - plays audio and allows us to adjust settings (e.g. volume).
+* __Audio Clip__ - conteins the audio data to be played (mp3, wav, ogg).
+
 ***
 # ~ C# ~
 ## Organising Code
